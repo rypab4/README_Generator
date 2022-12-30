@@ -40,24 +40,24 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'What command should be run to install dependencies',
+        message: 'What command should be run to install dependencies?',
         default: 'npm i',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'What command should be run to run tests',
+        message: 'What command should be run to run tests?',
         default: 'npm test',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'What does the user need to know about the repo',
+        message: 'What does the user need to know about the repo?',
     },
     {
         type: 'input',
         name: 'contributors',
-        message: 'What does the user need to know about contributing to the repo',
+        message: 'What does the user need to know about contributing to the repo?',
 
     },
 ];

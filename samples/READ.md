@@ -1,9 +1,9 @@
 # Space_Galaxy
-![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-**
+
+***
 ## Description
-about space
+Create a ship
 
 
 ## Table of Contents
@@ -11,9 +11,9 @@ about space
 
 * [Usage](#usage)
 
-* [License](#license)
 
-* [Contributors](#contributors)
+
+* [Contributing](#contributing)
 
 * [Tests](#tests)
 
@@ -30,16 +30,14 @@ npm i
 
 
 ## Usage
-It is use to create spaceships
+used for video game
 
 
-## License
-    
-    This project is licensed under the MIT license
+
 
 
 ## Contributors
-Made with none
+none
 
 
 ## Tests
@@ -48,7 +46,7 @@ To run tests, run the follwoing command:
 npm test
 ```
 
-Questions
-If you have any questions about the repo, open an issue or contact me directly at rpab4@gmail.com.  You can find my work at https://www.github.com/rypab4
+## Questions
+If you have any questions about the repo, open an issue or contact me directly at rypab4@gmail.com.  You can find my work at https://www.github.com/rypab4
 
 

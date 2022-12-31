@@ -1,7 +1,7 @@
-# RAEDME
-![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# READED_ME
+![GitHub license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-
+**
 ## Description
 creates a readme
 
@@ -11,7 +11,7 @@ creates a readme
 
 *[Usage](#usage)
 
-* [License](#license)
+*[License](#license)
 
 *[Contributing](#contributing)
 
@@ -29,12 +29,13 @@ npm i
 ```
 
 
-##Usage
-nothing really
+## Usage
+nothing
 
 
-[License](#license)
-
+## License
+    
+    This project is licensed under the GPLv3 license
 
 
 ## Contributing
@@ -48,6 +49,6 @@ npm test
 ```
 
 Questions
-If you have any questions about the repo, open an issue or contact me directly at ryoab4@gmail.  You can find my work at ryoab4
+If you have any questions about the repo, open an issue or contact me directly at ryap4b.  You can find my work at ryoab4
 
 

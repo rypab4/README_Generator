@@ -67,7 +67,7 @@ ${renderLicenseSection(data.license)}
 
 
 ## Contributors
-Made with ${data.contributors}
+${data.contributors}
 
 
 ## Tests
@@ -76,7 +76,7 @@ To run tests, run the follwoing command:
 ${data.tests}
 \`\`\`
 
-Questions
+## Questions
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}.  You can find my work at https://www.github.com/${data.github}
 
 

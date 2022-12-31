@@ -13,7 +13,7 @@ about space
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Contributors](#contributors)
 
 * [Tests](#tests)
 

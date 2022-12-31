@@ -1,23 +1,23 @@
-# READED_ME
-![GitHub license](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Space_Galaxy
+![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **
 ## Description
-creates a readme
+about space
 
 
 ## Table of Contents
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
-*[License](#license)
+* [License](#license)
 
-*[Contributing](#contributing)
+* [Contributing](#contributing)
 
-*[Tests](#tests)
+* [Tests](#tests)
 
-*[Questions](#questions)
+* [Questions](#questions)
 
 
 ## Installations 
@@ -30,16 +30,16 @@ npm i
 
 
 ## Usage
-nothing
+It is use to create spaceships
 
 
 ## License
     
-    This project is licensed under the GPLv3 license
+    This project is licensed under the MIT license
 
 
-## Contributing
-ryan
+## Contributors
+Made with none
 
 
 ## Tests
@@ -49,6 +49,6 @@ npm test
 ```
 
 Questions
-If you have any questions about the repo, open an issue or contact me directly at ryap4b.  You can find my work at ryoab4
+If you have any questions about the repo, open an issue or contact me directly at rpab4@gmail.com.  You can find my work at https://www.github.com/rypab4
 
 

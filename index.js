@@ -52,12 +52,12 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What does the user need to know about the repo?',
+        message: 'What does the user need to know about using the repo?',
     },
     {
         type: 'input',
         name: 'contributors',
-        message: 'What does the user need to know about contributing to the repo?',
+        message: 'Who contributed to the repo?',
 
     },
 ];

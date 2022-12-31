@@ -5,6 +5,8 @@
 Creates a README using node and prompts.
 
 ## Table of Contents
+* [Links](#links)
+
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -13,6 +15,9 @@ Creates a README using node and prompts.
 
 * [Questions](#questions)
 
+## Links
+Video: https://drive.google.com/file/d/1Bk5dIDBhQM4VTjBNORwVuV4I6RRXcz7I/view
+Github: 
 
 ## Installation
 Node.js

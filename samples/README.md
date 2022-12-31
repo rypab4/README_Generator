@@ -1,9 +1,9 @@
-# Space-Galaxy
-![GitHub license](https://img.shields.io/badge/License-BSD_3-blue.svg)
+# Galaxy XX
+![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ***
 ## Description
-Creating a SpaceShip
+creates a new galaxy
 
 
 ## Table of Contents
@@ -30,16 +30,16 @@ npm i
 
 
 ## Usage
-used to create a spaceship for videogame
+creates a new galaxy in a video game
 
 
 ## License
     
-    This project is licensed under the BSD_3 license
+    This project is licensed under the MIT license
 
 
 ## Contributors
-Jack Ryan
+Ryan Reynalds
 
 
 ## Tests
@@ -49,6 +49,6 @@ npm test
 ```
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at ryanpab@gmail.com.  You can find my work at https://www.github.com/ryanpab.
+If you have any questions about the repo, open an issue or contact me directly at rypab4@gmail.com.  You can find my work at https://www.github.com/rypab4.
 
 

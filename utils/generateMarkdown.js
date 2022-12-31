@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== "none") {
-    return `![GitHub license](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`;
+    return `![GitHub license](https://img.shields.io/badge/License-${license}-blue.svg)`;
 }
 return ''
 }
@@ -11,7 +11,7 @@ return ''
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
 if (license !== "none") {
-  return `\n* [License](#license)\n`;
+  return `* [License](#license)`;
 }
 return ''
 }
@@ -26,26 +26,27 @@ function renderLicenseSection(license) {
 
 // A function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.project}
 ${renderLicenseBadge(data.license)}
 
-### ${data.project}
 
 ## Description
-${description}
+${data.description}
+
 
 ## Table of Contents
 *[Installation](#installation)
 
 *[Usage](#usage)
 
-*${renderLicenseLink(data.license)}
+${renderLicenseLink(data.license)}
 
 *[Contributing](#contributing)
 
 *[Tests](#tests)
 
 *[Questions](#questions)
+
 
 ## Installations 
 
@@ -55,14 +56,17 @@ To install necessary dependencies, run the following command:
 ${data.installation}
 \`\`\`
 
-##Usage
 
+##Usage
 ${data.usage}
+
 
 ${renderLicenseSection(data.license)}
 
+
 ## Contributing
 ${data.contributors}
+
 
 ## Tests
 To run tests, run the follwoing command:

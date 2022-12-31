@@ -34,7 +34,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',
-        choices: ['MIT', 'Apache-2.0', 'GPL-3.0','BSD-3','none'],
+        choices: ['MIT', 'Apache_2.0', 'GPLv3','BSD_3','none'],
         
     },
     {
@@ -71,7 +71,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((inquirerResponses) =>{
         console.log('Generating README....');
-        writeToFile('README.md', generateMarkdown({ ...inquirerResponses}));
+        writeToFile('./samples/READ.md', generateMarkdown({ ...inquirerResponses}));
     })
 }
 

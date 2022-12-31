@@ -17,7 +17,7 @@ Creates a README using node and prompts.
 
 ## Links
 Video: https://drive.google.com/file/d/1Bk5dIDBhQM4VTjBNORwVuV4I6RRXcz7I/view
-Github: 
+Github: https://github.com/rypab4/ReadMe_generator
 
 ## Installation
 Node.js
